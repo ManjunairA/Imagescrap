@@ -2,6 +2,6 @@ Flask based Webscraping project for downloading images from internet by its name
 
 Run requirements.txt file using requirements.txt file.
 
-Run flask run
+Run==> flask run 
 
 
